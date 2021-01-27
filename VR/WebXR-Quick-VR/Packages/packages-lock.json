@@ -12,6 +12,15 @@
       },
       "url": "https://package.openupm.com"
     },
+    "com.de-panther.vrteleporter": {
+      "version": "https://github.com/De-Panther/Simple-WebXR-Teleporter.git?path=/Packages/VRTeleporter",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.de-panther.webxr": "0.6.0-preview"
+      },
+      "hash": "f9f00d1e9655d1b7fdc4779aa886c51eeebecc8b"
+    },
     "com.de-panther.webxr": {
       "version": "0.6.0-preview",
       "depth": 0,
